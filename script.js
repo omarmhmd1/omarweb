@@ -20,6 +20,6 @@ setTimeout(() => {
     
     var loading = document.getElementById("loading")
     loading.style.display = "none"
-}, 100);
+}, 3000);
 
 
